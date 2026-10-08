@@ -20,9 +20,9 @@ if readyon.lower() == "igen":
 
     if i < 12:
         print("Sajnos most még túl fiatal vagy. Próbálkozz később. ")
-    elif i >= 12 and i < 14:
-        print("Waooo, te pont illesz a kis büdihez. Keresd instán. IG: bazsaa1340 ")
-    elif i >= 14 and i <= 15:
+    elif i >= 12 and i <= 14:
+        print("Waooo, te pont illesz a kis büdihez. Keresd instán. IG: https://www.instagram.com/bazsaa1340/ ")
+    elif i >= 15:
         print("Sajnos most már túl öreg vagy. GAME OVER....")
 elif readyon.lower() == "nem":
     farkassome_input = input("Ha szeretnéd, hogy megmutassuk neked a kis büdi elérhetőségeit, akkor nyomj entert! ")
